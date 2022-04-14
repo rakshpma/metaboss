@@ -14,10 +14,9 @@ pub const METAPLEX_PROGRAM_ID: &str = "metaqbxxUerdq28cj1RbAWkYQm3ybzjb6a8bt518x
 pub const CANDY_MACHINE_PROGRAM_ID: &str = "cndyAnrLdpjq1Ssp1z8xxDsB8dxe7u4HL5Nxi2K5WXZ";
 
 pub const PUBLIC_RPC_URLS: &[&str] = &[
-    "https://api.devnet.solana.com",
-    "https://api.testnet.solana.com",
     "https://api.mainnet-beta.solana.com",
     "https://solana-api.projectserum.com",
+    "https://small-white-breeze.solana-mainnet.quiknode.pro/d33b740087d0858f0b2464a71f6ebf2111a1f122/"
 ];
 
 pub const DEFAULT_RPC_DELAY_MS: u32 = 200;
